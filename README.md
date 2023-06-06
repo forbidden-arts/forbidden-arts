@@ -16,7 +16,7 @@ Hey there, fellow developers, super-juniors looking to steal code, and people wh
 
 - **Name**: Dan Palmer
 - **Bio**: Practitioner of Solipsism and a caffeine-dependent life form trying to make magic happen through code. Passionate about turning ideas into reality, one line of code at a time.
-- **Favorite Quote**: "It compiled without errors? Deploy to production!"
+- **Favorite Quote**: "It compiled without errors? Ship it!"
 
 ### Me, Coding:
 ![Me Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
