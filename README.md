@@ -30,7 +30,7 @@ Here's a glimpse of my coding adventures:
 
 ## Skills
 
-- C, C++, JavaScript, Python... and holding conversations with my self - "for debugging".
+- C, C++, JavaScript, Python... and holding conversations with myself - "for debugging".
 - Creating bugs unintentionally and then squashing them like a pro.
 - Spending hours on Stack Overflow trying to understand someone else's code.
 
