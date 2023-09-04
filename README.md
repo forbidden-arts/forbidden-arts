@@ -12,8 +12,6 @@ Hey there, fellow developers, super-juniors looking to steal code, and people wh
 
 ## About Me
 
-![dpalmer's 42 stats](https://badge42.vercel.app/api/v2/cli5pb141011308mh1fmi5qrq/stats?cursusId=21&coalitionId=271)
-
 - **Name**: Dan Palmer
 - **Bio**: Practitioner of solipsism and a caffeine-dependent life form trying to make magic happen through code. Passionate about turning ideas into reality, one line of code at a time.
 - **Favorite Quote**: "It compiled without errors? Ship it!"
