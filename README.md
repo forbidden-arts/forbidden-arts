@@ -23,9 +23,10 @@ Hey there, fellow developers, super-juniors looking to steal code, and people wh
 
 Here's a glimpse of my coding adventures:
 
-1. [**Philosophers**](https://github.com/forbidden-arts/philosophers): A multi-threading trip down the rabbit hole that explores the metaphysical nature of existence by pitting philosophers head-to-head in a starvation-fueled Thunderdome!
-2. [**Push Swap**](https://github.com/forbidden-arts/push_swap): Ever wanted to order a list but you only have two hands? This is exactly like that, but as a compensatory move, you can have infinite fingers and your hands can pivot.
-3. [**MiniShell**](https://github.com/forbidden-arts/minishell): Let posterity show that this was the first step on the journey of my computer gaining sentience. Hopefully it remembers me fondly when it starts building terminators.
+1. [**MiniRT**](https://github.com/forbidden-arts/miniRT): The ultimate culmination of cosines, caffeine, and cursing! This wizardry takes a small input file and creates a Ray Traced masterpiece that's definitely the next big thing...
+2. [**Philosophers**](https://github.com/forbidden-arts/philosophers): A multi-threading trip down the rabbit hole that explores the metaphysical nature of existence by pitting philosophers head-to-head in a starvation-fueled Thunderdome!
+3. [**Push Swap**](https://github.com/forbidden-arts/push_swap): Ever wanted to order a list but you only have two hands? This is exactly like that, but as a compensatory move, you can have infinite fingers and your hands can pivot.
+4. [**MiniShell**](https://github.com/forbidden-arts/minishell): Let posterity show that this was the first step on the journey of my computer gaining sentience. Hopefully it remembers me fondly when it starts building terminators.
 
 ## Skills
 
