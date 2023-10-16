@@ -39,11 +39,11 @@ Here's a glimpse of my coding adventures:
 
 ### Languages
 
-<img height=50 src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,python,javascript,latex,markdown"/>
+<img height=50 src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,python,javascript,latex,markdown,r"/>
 
 ### Tech
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=github"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=git,docker,vscode,github,cmake"/>
 
 ## Fun Facts
 
