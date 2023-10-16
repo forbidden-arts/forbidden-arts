@@ -43,7 +43,7 @@ Here's a glimpse of my coding adventures:
 
 ### Tech
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=github"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
 
 ## Fun Facts
 
