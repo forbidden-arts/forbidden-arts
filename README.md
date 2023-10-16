@@ -1,4 +1,4 @@
-# 🌟 Hello World! I'm Dan! 🌟
+# 👋 Hello World! I'm Dan! 👋
 
 Hey there, fellow developers, super-juniors looking to steal code, and people who got lost and found themselves in this place! Welcome to my coding journey. This repository is my little corner of chaos where I break things, vent about syntax, and plot world domination. Don't worry, I'm still learning the ropes, so there is plenty of time to doomsday prep. 😄
 
@@ -23,9 +23,9 @@ Hey there, fellow developers, super-juniors looking to steal code, and people wh
 
 Here's a glimpse of my coding adventures:
 
-1. [**MiniRT**](https://github.com/forbidden-arts/miniRT): The ultimate culmination of cosines, caffeine, and cursing! This wizardry takes a small input file and creates a Ray Traced masterpiece that's definitely the next big thing...
+1. [**MiniRT**](https://github.com/forbidden-arts/miniRT): The ultimate culmination of cosines, caffeine, and cursing! This wizardry takes a small input file and creates a Ray Traced masterpiece!
 2. [**Philosophers**](https://github.com/forbidden-arts/philosophers): A multi-threading trip down the rabbit hole that explores the metaphysical nature of existence by pitting philosophers head-to-head in a starvation-fueled Thunderdome!
-3. [**Push Swap**](https://github.com/forbidden-arts/push_swap): Ever wanted to order a list but you only have two hands? This is exactly like that, but as a compensatory move, you can have infinite fingers and your hands can pivot.
+3. [**Push Swap**](https://github.com/forbidden-arts/push_swap): Ever wanted to order a list but you only have two hands? This is exactly like that, but you can have infinite fingers and your wrists rotate.
 4. [**MiniShell**](https://github.com/forbidden-arts/minishell): Let posterity show that this was the first step on the journey of my computer gaining sentience. Hopefully it remembers me fondly when it starts building terminators.
 
 ## Skills
@@ -34,18 +34,31 @@ Here's a glimpse of my coding adventures:
 - Creating bugs unintentionally and then squashing them like a pro.
 - Spending hours on Stack Overflow trying to understand someone else's code.
 
+### Languages & Frameworks
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+### Tech & Tools
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
 ## Fun Facts
 
-- I believe that indentation is a form of art and should be treated accordingly.
+- I believe that indentation is *a form of art* and should be treated accordingly.
 - My code is powered by copious amounts of coffee and the occasional slice of pizza.
 - I can type "console.log('Hello, World!');" faster than I can spell my own name.
 
+
+<p float="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forbidden-arts&layout=compact&theme=transparent" alt="Top Languages" width="40%"/><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=forbidden-arts&show-icons=true&theme=transparent" alt="GitHub Stats" width="40%"/>
+</p>
+
 ## Get in Touch
 
-Feel free to reach out if you're up for a coding adventure, have obscure C&H comics to share, or just want to chat about the latest tech trends. You can find me on:
+Feel free to reach out if you're up for a coding adventure, have obscure comics to share, or just want to chat about the latest tech trends.
 
-- LinkedIn: [Dan Palmer](https://www.linkedin.com/in/danieljpalmer/)
+LinkedIn: [Dan Palmer](https://www.linkedin.com/in/danieljpalmer/)
 
-Let's go cause some trouble!
-
-Happy coding! 😄🚀
+Let's go cause some trouble! 😄🚀
