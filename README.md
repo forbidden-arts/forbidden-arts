@@ -54,7 +54,6 @@ Here's a glimpse of my coding adventures:
 
 <p float="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forbidden-arts&layout=compact" alt="Top Languages" width="40%"/><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=forbidden-arts&show-icons=true" alt="GitHub Stats" width="40%"/>
 </p>
 
 ## Get in Touch
